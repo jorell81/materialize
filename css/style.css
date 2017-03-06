@@ -7,3 +7,15 @@
 	margin-top: 12px;
 	margin-right: 20px;
 }
+
+.parallax-title{
+	margin-top: 160px;
+}
+
+.card-image-cover{
+	width: 100%;
+}
+
+.no-space-row{
+	margin-bottom: 0 !important;
+}
